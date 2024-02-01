@@ -27,6 +27,13 @@
     <!-- Used in confirmation dialogs as the action that the user will tap to turn on the feature. [CHAR LIMIT=40]-->
     <string name="confirmation_turn_on">Turn on</string>
 
+    <!-- Clear calling -->
+    <string name="clear_calling_footer">To protect your privacy, Clear Calling never sends audio or conversations to Google. Clear Calling is available depending on your Wi‑Fi and mobile network.</string>
+    <string name="clear_calling_footer_learn_more_link">https://support.google.com/pixelphone?p=clear_calling</string>
+    <string name="clear_calling_title">Clear Calling</string>
+    <string name="clear_calling_toggle">Use Clear Calling</string>
+    <string name="clear_calling_topintro">Reduces background noises during calls</string>
+
     <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
     <string name="device_info_default">Unknown</string>
     <!-- String for removal of sensitive info on about, depending on tap -->
