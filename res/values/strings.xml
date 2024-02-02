@@ -27,6 +27,9 @@
     <!-- Used in confirmation dialogs as the action that the user will tap to turn on the feature. [CHAR LIMIT=40]-->
     <string name="confirmation_turn_on">Turn on</string>
 
+     <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</str
+    
     <!-- Clear calling -->
     <string name="clear_calling_footer">To protect your privacy, Clear Calling never sends audio or conversations to Google. Clear Calling is available depending on your Wi‑Fi and mobile network.</string>
     <string name="clear_calling_footer_learn_more_link">https://support.google.com/pixelphone?p=clear_calling</string>
