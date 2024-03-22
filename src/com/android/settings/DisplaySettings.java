@@ -26,7 +26,7 @@ import com.android.settings.display.CameraGesturePreferenceController;
 import com.android.settings.display.LiftToWakePreferenceController;
 import com.android.settings.display.ShowOperatorNamePreferenceController;
 import com.android.settings.display.ShowRefreshRatePreferenceController;
-import com.android.settings.display.ForcePeakRefreshRatePreferenceController
+import com.android.settings.display.ForcePeakRefreshRatePreferenceController;
 import com.android.settings.display.TapToWakePreferenceController;
 import com.android.settings.display.EnableBlursPreferenceController;
 import com.android.settings.display.ThemePreferenceController;

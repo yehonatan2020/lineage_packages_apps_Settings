@@ -1,4 +1,4 @@
-package com.statix.android.settings.notification;
+package com.android.settings.notification;
 
 import android.content.Context;
 import android.content.IntentFilter;

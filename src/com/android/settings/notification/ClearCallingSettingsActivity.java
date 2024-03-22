@@ -1,5 +1,5 @@
 
-package com.statix.android.settings.notification;
+package com.android.settings.notification;
 
 import com.android.settings.SettingsActivity;
 
